@@ -9,3 +9,5 @@ audit-report-*.txt
 # Compiled binaries / stray artifacts
 main
 
+# Local-only assistant context
+progress/CLAUDE_STATE.md

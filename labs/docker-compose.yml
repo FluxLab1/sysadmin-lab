@@ -1,0 +1,39 @@
+version: '3.8'
+
+# Common Vulnerable Web Applications for Practice
+# Usage: docker-compose up -d [service-name]
+
+services:
+  # DVWA - Damn Vulnerable Web Application
+  dvwa:
+    image: vulnerables/web-dvwa
+    container_name: lab-dvwa
+    ports:
+      - "8080:80"
+    networks:
+      - lab-network
+    restart: unless-stopped
+
+  # WebGoat - OWASP Web Security Training
+  webgoat:
+    image: webgoat/webgoat-8.0
+    container_name: lab-webgoat
+    ports:
+      - "8081:8080"
+    networks:
+      - lab-network
+    restart: unless-stopped
+
+  # Juice Shop - Modern vulnerable web app
+  juiceshop:
+    image: bkimminich/juice-shop
+    container_name: lab-juiceshop
+    ports:
+      - "3000:3000"
+    networks:
+      - lab-network
+    restart: unless-stopped
+
+networks:
+  lab-network:
+    external: true

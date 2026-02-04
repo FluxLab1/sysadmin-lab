@@ -1,0 +1,1368 @@
+==================================
+  Security Audit Report
+  Generated: Mon Feb  2 09:50:01 PM AST 2026
+==================================
+
+[1] Failed SSH Login Attempts:
+    Total attempts: 7
+    Unique IPs:
+      3 192.168.1.50
+      2 10.0.0.12
+      1 203.0.113.8
+      1 172.16.0.5
+
+[2] World-Writable Files:
+    None found - clean!
+
+[3] Recent User Changes:
+/etc/passwd
+    No recent user changes
+
+⚠️  ALERT: 7 failed login attempts detected!
+==================================
+  Report saved: /home/fluxlab/sysadmin-lab/labs/audit-logger/reports/audit-report-20260202-215001.txt
+==================================
+==================================
+  Security Audit Report
+  Generated: Mon Feb  2 09:55:01 PM AST 2026
+==================================
+
+[1] Failed SSH Login Attempts:
+    Total attempts: 7
+    Unique IPs:
+      3 192.168.1.50
+      2 10.0.0.12
+      1 203.0.113.8
+      1 172.16.0.5
+
+[2] World-Writable Files:
+    None found - clean!
+
+[3] Recent User Changes:
+/etc/passwd
+    No recent user changes
+
+⚠️  ALERT: 7 failed login attempts detected!
+==================================
+  Report saved: /home/fluxlab/sysadmin-lab/labs/audit-logger/reports/audit-report-20260202-215501.txt
+==================================
+==================================
+  Security Audit Report
+  Generated: Mon Feb  2 10:00:01 PM AST 2026
+==================================
+
+[1] Failed SSH Login Attempts:
+    Total attempts: 7
+    Unique IPs:
+      3 192.168.1.50
+      2 10.0.0.12
+      1 203.0.113.8
+      1 172.16.0.5
+
+[2] World-Writable Files:
+    None found - clean!
+
+[3] Recent User Changes:
+/etc/passwd
+    No recent user changes
+
+⚠️  ALERT: 7 failed login attempts detected!
+==================================
+  Report saved: /home/fluxlab/sysadmin-lab/labs/audit-logger/reports/audit-report-20260202-220001.txt
+==================================
+==================================
+  Security Audit Report
+  Generated: Mon Feb  2 10:05:01 PM AST 2026
+==================================
+
+[1] Failed SSH Login Attempts:
+    Total attempts: 7
+    Unique IPs:
+      3 192.168.1.50
+      2 10.0.0.12
+      1 203.0.113.8
+      1 172.16.0.5
+
+[2] World-Writable Files:
+    None found - clean!
+
+[3] Recent User Changes:
+/etc/passwd
+    No recent user changes
+
+⚠️  ALERT: 7 failed login attempts detected!
+==================================
+  Report saved: /home/fluxlab/sysadmin-lab/labs/audit-logger/reports/audit-report-20260202-220501.txt
+==================================
+==================================
+  Security Audit Report
+  Generated: Mon Feb  2 10:10:01 PM AST 2026
+==================================
+
+[1] Failed SSH Login Attempts:
+    Total attempts: 7
+    Unique IPs:
+      3 192.168.1.50
+      2 10.0.0.12
+      1 203.0.113.8
+      1 172.16.0.5
+
+[2] World-Writable Files:
+    None found - clean!
+
+[3] Recent User Changes:
+/etc/passwd
+    No recent user changes
+
+⚠️  ALERT: 7 failed login attempts detected!
+==================================
+  Report saved: /home/fluxlab/sysadmin-lab/labs/audit-logger/reports/audit-report-20260202-221001.txt
+==================================
+==================================
+  Security Audit Report
+  Generated: Mon Feb  2 10:15:01 PM AST 2026
+==================================
+
+[1] Failed SSH Login Attempts:
+    Total attempts: 7
+    Unique IPs:
+      3 192.168.1.50
+      2 10.0.0.12
+      1 203.0.113.8
+      1 172.16.0.5
+
+[2] World-Writable Files:
+    None found - clean!
+
+[3] Recent User Changes:
+/etc/passwd
+    No recent user changes
+
+⚠️  ALERT: 7 failed login attempts detected!
+==================================
+  Report saved: /home/fluxlab/sysadmin-lab/labs/audit-logger/reports/audit-report-20260202-221501.txt
+==================================
+==================================
+  Security Audit Report
+  Generated: Mon Feb  2 10:20:01 PM AST 2026
+==================================
+
+[1] Failed SSH Login Attempts:
+    Total attempts: 7
+    Unique IPs:
+      3 192.168.1.50
+      2 10.0.0.12
+      1 203.0.113.8
+      1 172.16.0.5
+
+[2] World-Writable Files:
+    None found - clean!
+
+[3] Recent User Changes:
+/etc/passwd
+    No recent user changes
+
+⚠️  ALERT: 7 failed login attempts detected!
+==================================
+  Report saved: /home/fluxlab/sysadmin-lab/labs/audit-logger/reports/audit-report-20260202-222001.txt
+==================================
+==================================
+  Security Audit Report
+  Generated: Mon Feb  2 10:25:01 PM AST 2026
+==================================
+
+[1] Failed SSH Login Attempts:
+    Total attempts: 7
+    Unique IPs:
+      3 192.168.1.50
+      2 10.0.0.12
+      1 203.0.113.8
+      1 172.16.0.5
+
+[2] World-Writable Files:
+    None found - clean!
+
+[3] Recent User Changes:
+/etc/passwd
+    No recent user changes
+
+⚠️  ALERT: 7 failed login attempts detected!
+==================================
+  Report saved: /home/fluxlab/sysadmin-lab/labs/audit-logger/reports/audit-report-20260202-222501.txt
+==================================
+==================================
+  Security Audit Report
+  Generated: Mon Feb  2 10:30:01 PM AST 2026
+==================================
+
+[1] Failed SSH Login Attempts:
+    Total attempts: 7
+    Unique IPs:
+      3 192.168.1.50
+      2 10.0.0.12
+      1 203.0.113.8
+      1 172.16.0.5
+
+[2] World-Writable Files:
+    None found - clean!
+
+[3] Recent User Changes:
+/etc/passwd
+    No recent user changes
+
+⚠️  ALERT: 7 failed login attempts detected!
+==================================
+  Report saved: /home/fluxlab/sysadmin-lab/labs/audit-logger/reports/audit-report-20260202-223001.txt
+==================================
+==================================
+  Security Audit Report
+  Generated: Mon Feb  2 10:35:01 PM AST 2026
+==================================
+
+[1] Failed SSH Login Attempts:
+    Total attempts: 7
+    Unique IPs:
+      3 192.168.1.50
+      2 10.0.0.12
+      1 203.0.113.8
+      1 172.16.0.5
+
+[2] World-Writable Files:
+    None found - clean!
+
+[3] Recent User Changes:
+/etc/passwd
+    No recent user changes
+
+⚠️  ALERT: 7 failed login attempts detected!
+==================================
+  Report saved: /home/fluxlab/sysadmin-lab/labs/audit-logger/reports/audit-report-20260202-223501.txt
+==================================
+==================================
+  Security Audit Report
+  Generated: Mon Feb  2 10:40:01 PM AST 2026
+==================================
+
+[1] Failed SSH Login Attempts:
+    Total attempts: 7
+    Unique IPs:
+      3 192.168.1.50
+      2 10.0.0.12
+      1 203.0.113.8
+      1 172.16.0.5
+
+[2] World-Writable Files:
+    None found - clean!
+
+[3] Recent User Changes:
+/etc/passwd
+    No recent user changes
+
+⚠️  ALERT: 7 failed login attempts detected!
+==================================
+  Report saved: /home/fluxlab/sysadmin-lab/labs/audit-logger/reports/audit-report-20260202-224001.txt
+==================================
+==================================
+  Security Audit Report
+  Generated: Mon Feb  2 10:45:01 PM AST 2026
+==================================
+
+[1] Failed SSH Login Attempts:
+    Total attempts: 7
+    Unique IPs:
+      3 192.168.1.50
+      2 10.0.0.12
+      1 203.0.113.8
+      1 172.16.0.5
+
+[2] World-Writable Files:
+    None found - clean!
+
+[3] Recent User Changes:
+/etc/passwd
+    No recent user changes
+
+⚠️  ALERT: 7 failed login attempts detected!
+==================================
+  Report saved: /home/fluxlab/sysadmin-lab/labs/audit-logger/reports/audit-report-20260202-224501.txt
+==================================
+==================================
+  Security Audit Report
+  Generated: Mon Feb  2 10:50:01 PM AST 2026
+==================================
+
+[1] Failed SSH Login Attempts:
+    Total attempts: 7
+    Unique IPs:
+      3 192.168.1.50
+      2 10.0.0.12
+      1 203.0.113.8
+      1 172.16.0.5
+
+[2] World-Writable Files:
+    None found - clean!
+
+[3] Recent User Changes:
+/etc/passwd
+    No recent user changes
+
+⚠️  ALERT: 7 failed login attempts detected!
+==================================
+  Report saved: /home/fluxlab/sysadmin-lab/labs/audit-logger/reports/audit-report-20260202-225001.txt
+==================================
+==================================
+  Security Audit Report
+  Generated: Mon Feb  2 10:55:01 PM AST 2026
+==================================
+
+[1] Failed SSH Login Attempts:
+    Total attempts: 7
+    Unique IPs:
+      3 192.168.1.50
+      2 10.0.0.12
+      1 203.0.113.8
+      1 172.16.0.5
+
+[2] World-Writable Files:
+    None found - clean!
+
+[3] Recent User Changes:
+/etc/passwd
+    No recent user changes
+
+⚠️  ALERT: 7 failed login attempts detected!
+==================================
+  Report saved: /home/fluxlab/sysadmin-lab/labs/audit-logger/reports/audit-report-20260202-225501.txt
+==================================
+==================================
+  Security Audit Report
+  Generated: Mon Feb  2 11:00:01 PM AST 2026
+==================================
+
+[1] Failed SSH Login Attempts:
+    Total attempts: 7
+    Unique IPs:
+      3 192.168.1.50
+      2 10.0.0.12
+      1 203.0.113.8
+      1 172.16.0.5
+
+[2] World-Writable Files:
+    None found - clean!
+
+[3] Recent User Changes:
+/etc/passwd
+    No recent user changes
+
+⚠️  ALERT: 7 failed login attempts detected!
+==================================
+  Report saved: /home/fluxlab/sysadmin-lab/labs/audit-logger/reports/audit-report-20260202-230001.txt
+==================================
+==================================
+  Security Audit Report
+  Generated: Mon Feb  2 11:05:01 PM AST 2026
+==================================
+
+[1] Failed SSH Login Attempts:
+    Total attempts: 7
+    Unique IPs:
+      3 192.168.1.50
+      2 10.0.0.12
+      1 203.0.113.8
+      1 172.16.0.5
+
+[2] World-Writable Files:
+    None found - clean!
+
+[3] Recent User Changes:
+/etc/passwd
+    No recent user changes
+
+⚠️  ALERT: 7 failed login attempts detected!
+==================================
+  Report saved: /home/fluxlab/sysadmin-lab/labs/audit-logger/reports/audit-report-20260202-230501.txt
+==================================
+==================================
+  Security Audit Report
+  Generated: Mon Feb  2 11:10:01 PM AST 2026
+==================================
+
+[1] Failed SSH Login Attempts:
+    Total attempts: 7
+    Unique IPs:
+      3 192.168.1.50
+      2 10.0.0.12
+      1 203.0.113.8
+      1 172.16.0.5
+
+[2] World-Writable Files:
+    None found - clean!
+
+[3] Recent User Changes:
+/etc/passwd
+    No recent user changes
+
+⚠️  ALERT: 7 failed login attempts detected!
+==================================
+  Report saved: /home/fluxlab/sysadmin-lab/labs/audit-logger/reports/audit-report-20260202-231001.txt
+==================================
+==================================
+  Security Audit Report
+  Generated: Tue Feb  3 01:10:01 PM AST 2026
+==================================
+
+[1] Failed SSH Login Attempts:
+    Total attempts: 7
+    Unique IPs:
+      3 192.168.1.50
+      2 10.0.0.12
+      1 203.0.113.8
+      1 172.16.0.5
+
+[2] World-Writable Files:
+    None found - clean!
+
+[3] Recent User Changes:
+/etc/passwd
+    No recent user changes
+
+⚠️  ALERT: 7 failed login attempts detected!
+==================================
+  Report saved: /home/fluxlab/sysadmin-lab/labs/audit-logger/reports/audit-report-20260203-131001.txt
+==================================
+==================================
+  Security Audit Report
+  Generated: Tue Feb  3 01:15:01 PM AST 2026
+==================================
+
+[1] Failed SSH Login Attempts:
+    Total attempts: 7
+    Unique IPs:
+      3 192.168.1.50
+      2 10.0.0.12
+      1 203.0.113.8
+      1 172.16.0.5
+
+[2] World-Writable Files:
+    None found - clean!
+
+[3] Recent User Changes:
+/etc/passwd
+    No recent user changes
+
+⚠️  ALERT: 7 failed login attempts detected!
+==================================
+  Report saved: /home/fluxlab/sysadmin-lab/labs/audit-logger/reports/audit-report-20260203-131501.txt
+==================================
+==================================
+  Security Audit Report
+  Generated: Tue Feb  3 01:20:01 PM AST 2026
+==================================
+
+[1] Failed SSH Login Attempts:
+    Total attempts: 7
+    Unique IPs:
+      3 192.168.1.50
+      2 10.0.0.12
+      1 203.0.113.8
+      1 172.16.0.5
+
+[2] World-Writable Files:
+    None found - clean!
+
+[3] Recent User Changes:
+/etc/passwd
+    No recent user changes
+
+⚠️  ALERT: 7 failed login attempts detected!
+==================================
+  Report saved: /home/fluxlab/sysadmin-lab/labs/audit-logger/reports/audit-report-20260203-132001.txt
+==================================
+==================================
+  Security Audit Report
+  Generated: Tue Feb  3 01:25:01 PM AST 2026
+==================================
+
+[1] Failed SSH Login Attempts:
+    Total attempts: 7
+    Unique IPs:
+      3 192.168.1.50
+      2 10.0.0.12
+      1 203.0.113.8
+      1 172.16.0.5
+
+[2] World-Writable Files:
+    None found - clean!
+
+[3] Recent User Changes:
+/etc/passwd
+    No recent user changes
+
+⚠️  ALERT: 7 failed login attempts detected!
+==================================
+  Report saved: /home/fluxlab/sysadmin-lab/labs/audit-logger/reports/audit-report-20260203-132501.txt
+==================================
+==================================
+  Security Audit Report
+  Generated: Tue Feb  3 01:30:01 PM AST 2026
+==================================
+
+[1] Failed SSH Login Attempts:
+    Total attempts: 7
+    Unique IPs:
+      3 192.168.1.50
+      2 10.0.0.12
+      1 203.0.113.8
+      1 172.16.0.5
+
+[2] World-Writable Files:
+    None found - clean!
+
+[3] Recent User Changes:
+/etc/passwd
+    No recent user changes
+
+⚠️  ALERT: 7 failed login attempts detected!
+==================================
+  Report saved: /home/fluxlab/sysadmin-lab/labs/audit-logger/reports/audit-report-20260203-133001.txt
+==================================
+==================================
+  Security Audit Report
+  Generated: Tue Feb  3 01:35:01 PM AST 2026
+==================================
+
+[1] Failed SSH Login Attempts:
+    Total attempts: 7
+    Unique IPs:
+      3 192.168.1.50
+      2 10.0.0.12
+      1 203.0.113.8
+      1 172.16.0.5
+
+[2] World-Writable Files:
+    None found - clean!
+
+[3] Recent User Changes:
+/etc/passwd
+    No recent user changes
+
+⚠️  ALERT: 7 failed login attempts detected!
+==================================
+  Report saved: /home/fluxlab/sysadmin-lab/labs/audit-logger/reports/audit-report-20260203-133501.txt
+==================================
+==================================
+  Security Audit Report
+  Generated: Tue Feb  3 01:40:01 PM AST 2026
+==================================
+
+[1] Failed SSH Login Attempts:
+    Total attempts: 7
+    Unique IPs:
+      3 192.168.1.50
+      2 10.0.0.12
+      1 203.0.113.8
+      1 172.16.0.5
+
+[2] World-Writable Files:
+    None found - clean!
+
+[3] Recent User Changes:
+/etc/passwd
+    No recent user changes
+
+⚠️  ALERT: 7 failed login attempts detected!
+==================================
+  Report saved: /home/fluxlab/sysadmin-lab/labs/audit-logger/reports/audit-report-20260203-134001.txt
+==================================
+==================================
+  Security Audit Report
+  Generated: Tue Feb  3 01:45:01 PM AST 2026
+==================================
+
+[1] Failed SSH Login Attempts:
+    Total attempts: 7
+    Unique IPs:
+      3 192.168.1.50
+      2 10.0.0.12
+      1 203.0.113.8
+      1 172.16.0.5
+
+[2] World-Writable Files:
+    None found - clean!
+
+[3] Recent User Changes:
+/etc/passwd
+    No recent user changes
+
+⚠️  ALERT: 7 failed login attempts detected!
+==================================
+  Report saved: /home/fluxlab/sysadmin-lab/labs/audit-logger/reports/audit-report-20260203-134501.txt
+==================================
+==================================
+  Security Audit Report
+  Generated: Tue Feb  3 01:50:01 PM AST 2026
+==================================
+
+[1] Failed SSH Login Attempts:
+    Total attempts: 7
+    Unique IPs:
+      3 192.168.1.50
+      2 10.0.0.12
+      1 203.0.113.8
+      1 172.16.0.5
+
+[2] World-Writable Files:
+    None found - clean!
+
+[3] Recent User Changes:
+/etc/passwd
+    No recent user changes
+
+⚠️  ALERT: 7 failed login attempts detected!
+==================================
+  Report saved: /home/fluxlab/sysadmin-lab/labs/audit-logger/reports/audit-report-20260203-135001.txt
+==================================
+==================================
+  Security Audit Report
+  Generated: Tue Feb  3 01:55:02 PM AST 2026
+==================================
+
+[1] Failed SSH Login Attempts:
+    Total attempts: 7
+    Unique IPs:
+      3 192.168.1.50
+      2 10.0.0.12
+      1 203.0.113.8
+      1 172.16.0.5
+
+[2] World-Writable Files:
+    None found - clean!
+
+[3] Recent User Changes:
+/etc/passwd
+    No recent user changes
+
+⚠️  ALERT: 7 failed login attempts detected!
+==================================
+  Report saved: /home/fluxlab/sysadmin-lab/labs/audit-logger/reports/audit-report-20260203-135502.txt
+==================================
+==================================
+  Security Audit Report
+  Generated: Tue Feb  3 02:00:01 PM AST 2026
+==================================
+
+[1] Failed SSH Login Attempts:
+    Total attempts: 7
+    Unique IPs:
+      3 192.168.1.50
+      2 10.0.0.12
+      1 203.0.113.8
+      1 172.16.0.5
+
+[2] World-Writable Files:
+    None found - clean!
+
+[3] Recent User Changes:
+/etc/passwd
+    No recent user changes
+
+⚠️  ALERT: 7 failed login attempts detected!
+==================================
+  Report saved: /home/fluxlab/sysadmin-lab/labs/audit-logger/reports/audit-report-20260203-140001.txt
+==================================
+==================================
+  Security Audit Report
+  Generated: Tue Feb  3 02:05:01 PM AST 2026
+==================================
+
+[1] Failed SSH Login Attempts:
+    Total attempts: 7
+    Unique IPs:
+      3 192.168.1.50
+      2 10.0.0.12
+      1 203.0.113.8
+      1 172.16.0.5
+
+[2] World-Writable Files:
+    None found - clean!
+
+[3] Recent User Changes:
+/etc/passwd
+    No recent user changes
+
+⚠️  ALERT: 7 failed login attempts detected!
+==================================
+  Report saved: /home/fluxlab/sysadmin-lab/labs/audit-logger/reports/audit-report-20260203-140501.txt
+==================================
+==================================
+  Security Audit Report
+  Generated: Tue Feb  3 02:10:01 PM AST 2026
+==================================
+
+[1] Failed SSH Login Attempts:
+    Total attempts: 7
+    Unique IPs:
+      3 192.168.1.50
+      2 10.0.0.12
+      1 203.0.113.8
+      1 172.16.0.5
+
+[2] World-Writable Files:
+    None found - clean!
+
+[3] Recent User Changes:
+/etc/passwd
+    No recent user changes
+
+⚠️  ALERT: 7 failed login attempts detected!
+==================================
+  Report saved: /home/fluxlab/sysadmin-lab/labs/audit-logger/reports/audit-report-20260203-141001.txt
+==================================
+==================================
+  Security Audit Report
+  Generated: Tue Feb  3 02:15:01 PM AST 2026
+==================================
+
+[1] Failed SSH Login Attempts:
+    Total attempts: 7
+    Unique IPs:
+      3 192.168.1.50
+      2 10.0.0.12
+      1 203.0.113.8
+      1 172.16.0.5
+
+[2] World-Writable Files:
+    None found - clean!
+
+[3] Recent User Changes:
+/etc/passwd
+    No recent user changes
+
+⚠️  ALERT: 7 failed login attempts detected!
+==================================
+  Report saved: /home/fluxlab/sysadmin-lab/labs/audit-logger/reports/audit-report-20260203-141501.txt
+==================================
+==================================
+  Security Audit Report
+  Generated: Tue Feb  3 02:20:01 PM AST 2026
+==================================
+
+[1] Failed SSH Login Attempts:
+    Total attempts: 7
+    Unique IPs:
+      3 192.168.1.50
+      2 10.0.0.12
+      1 203.0.113.8
+      1 172.16.0.5
+
+[2] World-Writable Files:
+    None found - clean!
+
+[3] Recent User Changes:
+/etc/passwd
+    No recent user changes
+
+⚠️  ALERT: 7 failed login attempts detected!
+==================================
+  Report saved: /home/fluxlab/sysadmin-lab/labs/audit-logger/reports/audit-report-20260203-142001.txt
+==================================
+==================================
+  Security Audit Report
+  Generated: Tue Feb  3 02:25:01 PM AST 2026
+==================================
+
+[1] Failed SSH Login Attempts:
+    Total attempts: 7
+    Unique IPs:
+      3 192.168.1.50
+      2 10.0.0.12
+      1 203.0.113.8
+      1 172.16.0.5
+
+[2] World-Writable Files:
+    None found - clean!
+
+[3] Recent User Changes:
+/etc/passwd
+    No recent user changes
+
+⚠️  ALERT: 7 failed login attempts detected!
+==================================
+  Report saved: /home/fluxlab/sysadmin-lab/labs/audit-logger/reports/audit-report-20260203-142501.txt
+==================================
+==================================
+  Security Audit Report
+  Generated: Tue Feb  3 02:30:01 PM AST 2026
+==================================
+
+[1] Failed SSH Login Attempts:
+    Total attempts: 7
+    Unique IPs:
+      3 192.168.1.50
+      2 10.0.0.12
+      1 203.0.113.8
+      1 172.16.0.5
+
+[2] World-Writable Files:
+    None found - clean!
+
+[3] Recent User Changes:
+/etc/passwd
+    No recent user changes
+
+⚠️  ALERT: 7 failed login attempts detected!
+==================================
+  Report saved: /home/fluxlab/sysadmin-lab/labs/audit-logger/reports/audit-report-20260203-143001.txt
+==================================
+==================================
+  Security Audit Report
+  Generated: Tue Feb  3 02:35:01 PM AST 2026
+==================================
+
+[1] Failed SSH Login Attempts:
+    Total attempts: 7
+    Unique IPs:
+      3 192.168.1.50
+      2 10.0.0.12
+      1 203.0.113.8
+      1 172.16.0.5
+
+[2] World-Writable Files:
+    None found - clean!
+
+[3] Recent User Changes:
+/etc/passwd
+    No recent user changes
+
+⚠️  ALERT: 7 failed login attempts detected!
+==================================
+  Report saved: /home/fluxlab/sysadmin-lab/labs/audit-logger/reports/audit-report-20260203-143501.txt
+==================================
+==================================
+  Security Audit Report
+  Generated: Tue Feb  3 10:15:01 PM AST 2026
+==================================
+
+[1] Failed SSH Login Attempts:
+    Total attempts: 7
+    Unique IPs:
+      3 192.168.1.50
+      2 10.0.0.12
+      1 203.0.113.8
+      1 172.16.0.5
+
+[2] World-Writable Files:
+    None found - clean!
+
+[3] Recent User Changes:
+/etc/passwd
+    No recent user changes
+
+⚠️  ALERT: 7 failed login attempts detected!
+==================================
+  Report saved: /home/fluxlab/sysadmin-lab/labs/audit-logger/reports/audit-report-20260203-221501.txt
+==================================
+==================================
+  Security Audit Report
+  Generated: Tue Feb  3 10:20:01 PM AST 2026
+==================================
+
+[1] Failed SSH Login Attempts:
+    Total attempts: 7
+    Unique IPs:
+      3 192.168.1.50
+      2 10.0.0.12
+      1 203.0.113.8
+      1 172.16.0.5
+
+[2] World-Writable Files:
+    None found - clean!
+
+[3] Recent User Changes:
+/etc/passwd
+    No recent user changes
+
+⚠️  ALERT: 7 failed login attempts detected!
+==================================
+  Report saved: /home/fluxlab/sysadmin-lab/labs/audit-logger/reports/audit-report-20260203-222001.txt
+==================================
+==================================
+  Security Audit Report
+  Generated: Tue Feb  3 10:25:01 PM AST 2026
+==================================
+
+[1] Failed SSH Login Attempts:
+    Total attempts: 7
+    Unique IPs:
+      3 192.168.1.50
+      2 10.0.0.12
+      1 203.0.113.8
+      1 172.16.0.5
+
+[2] World-Writable Files:
+    None found - clean!
+
+[3] Recent User Changes:
+/etc/passwd
+    No recent user changes
+
+⚠️  ALERT: 7 failed login attempts detected!
+==================================
+  Report saved: /home/fluxlab/sysadmin-lab/labs/audit-logger/reports/audit-report-20260203-222501.txt
+==================================
+==================================
+  Security Audit Report
+  Generated: Tue Feb  3 10:30:01 PM AST 2026
+==================================
+
+[1] Failed SSH Login Attempts:
+    Total attempts: 7
+    Unique IPs:
+      3 192.168.1.50
+      2 10.0.0.12
+      1 203.0.113.8
+      1 172.16.0.5
+
+[2] World-Writable Files:
+    None found - clean!
+
+[3] Recent User Changes:
+/etc/passwd
+    No recent user changes
+
+⚠️  ALERT: 7 failed login attempts detected!
+==================================
+  Report saved: /home/fluxlab/sysadmin-lab/labs/audit-logger/reports/audit-report-20260203-223001.txt
+==================================
+==================================
+  Security Audit Report
+  Generated: Tue Feb  3 10:35:01 PM AST 2026
+==================================
+
+[1] Failed SSH Login Attempts:
+    Total attempts: 7
+    Unique IPs:
+      3 192.168.1.50
+      2 10.0.0.12
+      1 203.0.113.8
+      1 172.16.0.5
+
+[2] World-Writable Files:
+    None found - clean!
+
+[3] Recent User Changes:
+/etc/passwd
+    No recent user changes
+
+⚠️  ALERT: 7 failed login attempts detected!
+==================================
+  Report saved: /home/fluxlab/sysadmin-lab/labs/audit-logger/reports/audit-report-20260203-223501.txt
+==================================
+==================================
+  Security Audit Report
+  Generated: Tue Feb  3 10:40:01 PM AST 2026
+==================================
+
+[1] Failed SSH Login Attempts:
+    Total attempts: 7
+    Unique IPs:
+      3 192.168.1.50
+      2 10.0.0.12
+      1 203.0.113.8
+      1 172.16.0.5
+
+[2] World-Writable Files:
+    None found - clean!
+
+[3] Recent User Changes:
+/etc/passwd
+    No recent user changes
+
+⚠️  ALERT: 7 failed login attempts detected!
+==================================
+  Report saved: /home/fluxlab/sysadmin-lab/labs/audit-logger/reports/audit-report-20260203-224001.txt
+==================================
+==================================
+  Security Audit Report
+  Generated: Tue Feb  3 10:45:01 PM AST 2026
+==================================
+
+[1] Failed SSH Login Attempts:
+    Total attempts: 7
+    Unique IPs:
+      3 192.168.1.50
+      2 10.0.0.12
+      1 203.0.113.8
+      1 172.16.0.5
+
+[2] World-Writable Files:
+    None found - clean!
+
+[3] Recent User Changes:
+/etc/passwd
+    No recent user changes
+
+⚠️  ALERT: 7 failed login attempts detected!
+==================================
+  Report saved: /home/fluxlab/sysadmin-lab/labs/audit-logger/reports/audit-report-20260203-224501.txt
+==================================
+==================================
+  Security Audit Report
+  Generated: Tue Feb  3 10:50:02 PM AST 2026
+==================================
+
+[1] Failed SSH Login Attempts:
+    Total attempts: 7
+    Unique IPs:
+      3 192.168.1.50
+      2 10.0.0.12
+      1 203.0.113.8
+      1 172.16.0.5
+
+[2] World-Writable Files:
+    None found - clean!
+
+[3] Recent User Changes:
+/etc/passwd
+    No recent user changes
+
+⚠️  ALERT: 7 failed login attempts detected!
+==================================
+  Report saved: /home/fluxlab/sysadmin-lab/labs/audit-logger/reports/audit-report-20260203-225002.txt
+==================================
+==================================
+  Security Audit Report
+  Generated: Tue Feb  3 10:55:01 PM AST 2026
+==================================
+
+[1] Failed SSH Login Attempts:
+    Total attempts: 7
+    Unique IPs:
+      3 192.168.1.50
+      2 10.0.0.12
+      1 203.0.113.8
+      1 172.16.0.5
+
+[2] World-Writable Files:
+    None found - clean!
+
+[3] Recent User Changes:
+/etc/passwd
+    No recent user changes
+
+⚠️  ALERT: 7 failed login attempts detected!
+==================================
+  Report saved: /home/fluxlab/sysadmin-lab/labs/audit-logger/reports/audit-report-20260203-225501.txt
+==================================
+==================================
+  Security Audit Report
+  Generated: Tue Feb  3 11:00:01 PM AST 2026
+==================================
+
+[1] Failed SSH Login Attempts:
+    Total attempts: 7
+    Unique IPs:
+      3 192.168.1.50
+      2 10.0.0.12
+      1 203.0.113.8
+      1 172.16.0.5
+
+[2] World-Writable Files:
+    None found - clean!
+
+[3] Recent User Changes:
+/etc/passwd
+    No recent user changes
+
+⚠️  ALERT: 7 failed login attempts detected!
+==================================
+  Report saved: /home/fluxlab/sysadmin-lab/labs/audit-logger/reports/audit-report-20260203-230001.txt
+==================================
+==================================
+  Security Audit Report
+  Generated: Tue Feb  3 11:05:01 PM AST 2026
+==================================
+
+[1] Failed SSH Login Attempts:
+    Total attempts: 7
+    Unique IPs:
+      3 192.168.1.50
+      2 10.0.0.12
+      1 203.0.113.8
+      1 172.16.0.5
+
+[2] World-Writable Files:
+    None found - clean!
+
+[3] Recent User Changes:
+/etc/passwd
+    No recent user changes
+
+⚠️  ALERT: 7 failed login attempts detected!
+==================================
+  Report saved: /home/fluxlab/sysadmin-lab/labs/audit-logger/reports/audit-report-20260203-230501.txt
+==================================
+==================================
+  Security Audit Report
+  Generated: Tue Feb  3 11:10:01 PM AST 2026
+==================================
+
+[1] Failed SSH Login Attempts:
+    Total attempts: 7
+    Unique IPs:
+      3 192.168.1.50
+      2 10.0.0.12
+      1 203.0.113.8
+      1 172.16.0.5
+
+[2] World-Writable Files:
+    None found - clean!
+
+[3] Recent User Changes:
+/etc/passwd
+    No recent user changes
+
+⚠️  ALERT: 7 failed login attempts detected!
+==================================
+  Report saved: /home/fluxlab/sysadmin-lab/labs/audit-logger/reports/audit-report-20260203-231001.txt
+==================================
+==================================
+  Security Audit Report
+  Generated: Tue Feb  3 11:15:01 PM AST 2026
+==================================
+
+[1] Failed SSH Login Attempts:
+    Total attempts: 7
+    Unique IPs:
+      3 192.168.1.50
+      2 10.0.0.12
+      1 203.0.113.8
+      1 172.16.0.5
+
+[2] World-Writable Files:
+    None found - clean!
+
+[3] Recent User Changes:
+/etc/passwd
+    No recent user changes
+
+⚠️  ALERT: 7 failed login attempts detected!
+==================================
+  Report saved: /home/fluxlab/sysadmin-lab/labs/audit-logger/reports/audit-report-20260203-231501.txt
+==================================
+==================================
+  Security Audit Report
+  Generated: Tue Feb  3 11:20:01 PM AST 2026
+==================================
+
+[1] Failed SSH Login Attempts:
+    Total attempts: 7
+    Unique IPs:
+      3 192.168.1.50
+      2 10.0.0.12
+      1 203.0.113.8
+      1 172.16.0.5
+
+[2] World-Writable Files:
+    None found - clean!
+
+[3] Recent User Changes:
+/etc/passwd
+    No recent user changes
+
+⚠️  ALERT: 7 failed login attempts detected!
+==================================
+  Report saved: /home/fluxlab/sysadmin-lab/labs/audit-logger/reports/audit-report-20260203-232001.txt
+==================================
+==================================
+  Security Audit Report
+  Generated: Tue Feb  3 11:25:01 PM AST 2026
+==================================
+
+[1] Failed SSH Login Attempts:
+    Total attempts: 7
+    Unique IPs:
+      3 192.168.1.50
+      2 10.0.0.12
+      1 203.0.113.8
+      1 172.16.0.5
+
+[2] World-Writable Files:
+    None found - clean!
+
+[3] Recent User Changes:
+/etc/passwd
+    No recent user changes
+
+⚠️  ALERT: 7 failed login attempts detected!
+==================================
+  Report saved: /home/fluxlab/sysadmin-lab/labs/audit-logger/reports/audit-report-20260203-232501.txt
+==================================
+==================================
+  Security Audit Report
+  Generated: Tue Feb  3 11:30:01 PM AST 2026
+==================================
+
+[1] Failed SSH Login Attempts:
+    Total attempts: 7
+    Unique IPs:
+      3 192.168.1.50
+      2 10.0.0.12
+      1 203.0.113.8
+      1 172.16.0.5
+
+[2] World-Writable Files:
+    None found - clean!
+
+[3] Recent User Changes:
+/etc/passwd
+    No recent user changes
+
+⚠️  ALERT: 7 failed login attempts detected!
+==================================
+  Report saved: /home/fluxlab/sysadmin-lab/labs/audit-logger/reports/audit-report-20260203-233001.txt
+==================================
+==================================
+  Security Audit Report
+  Generated: Tue Feb  3 11:35:01 PM AST 2026
+==================================
+
+[1] Failed SSH Login Attempts:
+    Total attempts: 7
+    Unique IPs:
+      3 192.168.1.50
+      2 10.0.0.12
+      1 203.0.113.8
+      1 172.16.0.5
+
+[2] World-Writable Files:
+    None found - clean!
+
+[3] Recent User Changes:
+/etc/passwd
+    No recent user changes
+
+⚠️  ALERT: 7 failed login attempts detected!
+==================================
+  Report saved: /home/fluxlab/sysadmin-lab/labs/audit-logger/reports/audit-report-20260203-233501.txt
+==================================
+==================================
+  Security Audit Report
+  Generated: Wed Feb  4 09:50:01 AM AST 2026
+==================================
+
+[1] Failed SSH Login Attempts:
+    Total attempts: 7
+    Unique IPs:
+      3 192.168.1.50
+      2 10.0.0.12
+      1 203.0.113.8
+      1 172.16.0.5
+
+[2] World-Writable Files:
+    None found - clean!
+
+[3] Recent User Changes:
+/etc/passwd
+    No recent user changes
+
+⚠️  ALERT: 7 failed login attempts detected!
+==================================
+  Report saved: /home/fluxlab/sysadmin-lab/labs/audit-logger/reports/audit-report-20260204-095001.txt
+==================================
+==================================
+  Security Audit Report
+  Generated: Wed Feb  4 09:55:01 AM AST 2026
+==================================
+
+[1] Failed SSH Login Attempts:
+    Total attempts: 7
+    Unique IPs:
+      3 192.168.1.50
+      2 10.0.0.12
+      1 203.0.113.8
+      1 172.16.0.5
+
+[2] World-Writable Files:
+    None found - clean!
+
+[3] Recent User Changes:
+/etc/passwd
+    No recent user changes
+
+⚠️  ALERT: 7 failed login attempts detected!
+==================================
+  Report saved: /home/fluxlab/sysadmin-lab/labs/audit-logger/reports/audit-report-20260204-095501.txt
+==================================
+==================================
+  Security Audit Report
+  Generated: Wed Feb  4 10:00:01 AM AST 2026
+==================================
+
+[1] Failed SSH Login Attempts:
+    Total attempts: 7
+    Unique IPs:
+      3 192.168.1.50
+      2 10.0.0.12
+      1 203.0.113.8
+      1 172.16.0.5
+
+[2] World-Writable Files:
+    None found - clean!
+
+[3] Recent User Changes:
+/etc/passwd
+    No recent user changes
+
+⚠️  ALERT: 7 failed login attempts detected!
+==================================
+  Report saved: /home/fluxlab/sysadmin-lab/labs/audit-logger/reports/audit-report-20260204-100001.txt
+==================================
+==================================
+  Security Audit Report
+  Generated: Wed Feb  4 10:05:01 AM AST 2026
+==================================
+
+[1] Failed SSH Login Attempts:
+    Total attempts: 7
+    Unique IPs:
+      3 192.168.1.50
+      2 10.0.0.12
+      1 203.0.113.8
+      1 172.16.0.5
+
+[2] World-Writable Files:
+    None found - clean!
+
+[3] Recent User Changes:
+/etc/passwd
+    No recent user changes
+
+⚠️  ALERT: 7 failed login attempts detected!
+==================================
+  Report saved: /home/fluxlab/sysadmin-lab/labs/audit-logger/reports/audit-report-20260204-100501.txt
+==================================
+==================================
+  Security Audit Report
+  Generated: Wed Feb  4 10:10:01 AM AST 2026
+==================================
+
+[1] Failed SSH Login Attempts:
+    Total attempts: 7
+    Unique IPs:
+      3 192.168.1.50
+      2 10.0.0.12
+      1 203.0.113.8
+      1 172.16.0.5
+
+[2] World-Writable Files:
+    None found - clean!
+
+[3] Recent User Changes:
+/etc/passwd
+    No recent user changes
+
+⚠️  ALERT: 7 failed login attempts detected!
+==================================
+  Report saved: /home/fluxlab/sysadmin-lab/labs/audit-logger/reports/audit-report-20260204-101001.txt
+==================================

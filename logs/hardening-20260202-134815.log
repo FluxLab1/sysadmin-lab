@@ -1,0 +1,32 @@
+Lab Security Hardening Log
+Date: Mon Feb  2 01:48:15 PM AST 2026
+User: fluxlab
+Hostname: fluxlab-ThinkPad-T460s
+
+Actions Performed:
+- System packages updated and upgraded
+- Telnet removed
+- UFW firewall configured and enabled
+- Practice user accounts hidden from login
+- Password policies configured
+- Docker security settings applied
+- Docker lab-network created (172.20.0.0/16)
+- Core dumps disabled
+- Kernel security parameters configured
+- Automatic security updates enabled
+- Security tools installed: fail2ban, lynis, rkhunter, chkrootkit, aide
+- Lab directory structure verified
+- Vulnerable app docker-compose created
+- Security notes documentation created
+
+System Status:
+- Firewall: ACTIVE
+- Docker: SECURED
+- Auto-updates: ENABLED
+- Monitoring: ACTIVE (fail2ban)
+
+Recommendations:
+1. Reboot system to apply kernel changes
+2. Run security audit: sudo lynis audit system
+3. Test Docker lab environment
+4. Review security notes in ~/sysadmin-lab/LAB-SECURITY-NOTES.md

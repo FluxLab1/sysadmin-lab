@@ -1,0 +1,112 @@
+Cyber Lab Session Log — 2026-02-02
+================================
+
+User: fluxlab
+Host OS: Ubuntu 24.04.3 LTS
+Hardware: ThinkPad T460s
+Shell: zsh
+Virtualization: VirtualBox 7.0.16
+Goal: First Ubuntu Server VM + SSH access (Cybersecurity Lab)
+
+--------------------------------------------------
+Environment Setup
+--------------------------------------------------
+- Installed VirtualBox and verified with:
+  VBoxManage --version
+- Host system confirmed healthy using fastfetch
+- Lab machine dedicated to cybersecurity learning
+
+--------------------------------------------------
+ISO Images Available
+--------------------------------------------------
+- ubuntu-24.04.3-live-server-amd64.iso
+- kali-linux-2025.4-installer-amd64.iso
+- Windows 10 ISO
+
+--------------------------------------------------
+VM Creation
+--------------------------------------------------
+VM Name: lab-server-01
+OS Type: Ubuntu Server
+
+Installer choices:
+- Network: DHCP
+- Proxy: none
+- Storage: Use entire disk
+- Storage layout: default
+- User created: fluxlab
+- OpenSSH server: installed
+- SSH key import: skipped
+- Featured server snaps: skipped
+
+--------------------------------------------------
+Installer Issue
+--------------------------------------------------
+Error encountered:
+- failed unmounting cdrom.mount - /cdrom
+
+Resolution:
+- Removed installation media
+- Restarted VM successfully
+
+--------------------------------------------------
+Networking & SSH Troubleshooting
+--------------------------------------------------
+Observed IP:
+- 10.0.2.15/24
+
+SSH attempt from host:
+- ssh fluxlab@10.0.2.15
+- Result: Connection timed out
+
+Diagnostics:
+- ufw status: inactive
+- kvm_intel module loaded
+- SSH timeout identified as network-level issue
+
+Root Cause:
+- VirtualBox NIC set to NAT
+- NAT blocks inbound connections by default
+
+--------------------------------------------------
+Planned Fix (Next Session)
+--------------------------------------------------
+Switch VM to Host-Only networking
+
+Commands:
+
+Host:
+VBoxManage controlvm "lab-server-01" poweroff
+VBoxManage hostonlyif create
+VBoxManage modifyvm "lab-server-01" --nic1 hostonly --hostonlyadapter1 vboxnet0
+VBoxManage startvm "lab-server-01"
+
+VM:
+ip a
+
+Host:
+ssh fluxlab@192.168.56.X
+
+--------------------------------------------------
+Key Learning Outcomes
+--------------------------------------------------
+- NAT vs Host-Only networking
+- SSH timeout vs authentication failure
+- Virtual networking as an attack surface
+- Analyst-style troubleshooting workflow
+
+--------------------------------------------------
+Next Labs
+--------------------------------------------------
+- SSH hardening
+- Auth logging
+- Fail2Ban
+- Brute-force detection
+- SOC-style alerting
+
+Session Status: Productive
+Mood: 😊
+Confidence: 🟢
+Time Spent: ~2+ hours
+
+End of log.

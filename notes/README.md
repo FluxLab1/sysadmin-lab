@@ -62,3 +62,41 @@ Create symbolic links in your home directory:
 ```bash
 ln -s ~/sysadmin-lab/notes ~/quick-notes
 ```
+
+## Docker Security Lab – Intent
+
+This Docker lab exists as a safe, isolated environment to practice
+web application security testing and container awareness.
+
+The lab uses intentionally vulnerable applications deployed via Docker
+to allow hands-on learning without exposing the host system or external networks.
+
+Primary goals:
+- Understand how vulnerable services are commonly deployed
+- Learn how Docker networking and isolation affect attack surface
+- Practice safe start/stop/reset workflows for security labs
+- Observe logging and container behavior during testing
+
+All containers are used strictly for educational purposes and are not
+exposed to the internet.
+
+## Virtual Machine Lab – Intent
+
+The virtual machine lab simulates a small enterprise-style network
+to practice system administration, network security, and defensive concepts
+in a controlled environment.
+
+Current and planned systems include:
+- pfSense (network segmentation and firewalling)
+- Ubuntu Server (Linux administration and services)
+- Windows 10 (endpoint behavior and security)
+- Windows Server (Active Directory and domain services)
+- Kali Linux (security testing platform)
+
+Primary goals:
+- Understand network boundaries and traffic control
+- Practice user and permission management safely
+- Learn how servers and endpoints interact in real environments
+- Prepare for future labs involving Active Directory, logging, and monitoring
+
+All systems are isolated, non-production, and used only for learning.

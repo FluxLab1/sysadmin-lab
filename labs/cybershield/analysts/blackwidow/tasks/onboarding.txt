@@ -1,0 +1,7 @@
+Role: Junior Security Analyst (Avengers Liaison)
+
+Duties:
+- Review Avengers internal status reports
+- Identify security-relevant indicators
+- Summarize findings in analyst reports
+- No modification of source data permitted
